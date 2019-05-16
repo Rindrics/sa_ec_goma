@@ -1,0 +1,3 @@
+[submodule "sa_templates"]
+	path = sa_templates
+	url = git@github.com:kikirinrin/sa_templates.git
